@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="action_save">save</string>
+    <string name="action_delete">delete</string>
+    <string name="title">title</string>
+    <string name="empty_view_subtitle_text">Get started by adding a Note</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+</resources>
